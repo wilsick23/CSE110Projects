@@ -1,5 +1,5 @@
 # Wilson Nguyen User Page
-![Picture of me](C:\Users\whngu\Desktop\me.jpg)
+![Picture of me]("C:\Users\whngu\Desktop\me.jpg")
 
 ## **About Me**
 My name is **Wilson Nguyen** and I am a **third year** in **Muir College**. I am majoring in *Cognitive Science Design and Interation* with a minor in *Computer Science.* I have five siblings, me being the second oldest whose names are (in age order)
@@ -9,7 +9,7 @@ My name is **Wilson Nguyen** and I am a **third year** in **Muir College**. I am
 4. Winsfield
 5. Winny
 
-In my freetime, I like to watch [TikToks](https://www.tiktok.com/), go to raves ([this is a recent photo](C:\Users\whngu\Downloads\110rave.jpg) I took with my friends at an event this past weekend), cook new things, and listen to K-pop. My favorite kpop group is *TWICE* and my favorite song by them is [I Can't Stop Me](https://www.youtube.com/watch?v=3d-D5bLDZSk).
+In my freetime, I like to watch [TikToks](https://www.tiktok.com/), go to raves ([this is a recent photo]("C:\Users\whngu\Downloads\110rave.jpg") I took with my friends at an event this past weekend), cook new things, and listen to K-pop. My favorite kpop group is *TWICE* and my favorite song by them is [I Can't Stop Me](https://www.youtube.com/watch?v=3d-D5bLDZSk).
 
 I am in many orgs across campus, including VSA, CASA, KP, and ACM. In fact, [this picture of me](#wilson-nguyen-user-page) was taken for board photos for ACM.
 
